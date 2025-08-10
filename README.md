@@ -1,5 +1,3 @@
-Of course. Here is a README.md file generated from the provided project summary.
-
 Pokedex - A React & TypeScript Application
 
 A modern Pokedex application built from scratch using React, Redux Toolkit, TypeScript, and SCSS. This project allows users to browse, search, compare, and create a personal collection of Pokémon. The application fetches data from the PokéAPI.
